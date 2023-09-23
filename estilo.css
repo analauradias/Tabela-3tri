@@ -1,0 +1,70 @@
+*{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(200, 135, 226, 0.781);
+}
+th, tr, td{
+    width: 20px;
+    border: 1px solid black ;
+}
+
+table{
+    margin: auto;
+    width: 70%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: white;
+}
+.geografia{
+    background-color: #f06c2eda
+}
+.historia{
+    background-color: #5b31a8cc;
+}
+.quimica{
+    background-color: #eca4dae1;
+}
+.biologia{
+    background-color: #39a572e5;
+}
+.matematica{
+    background-color: #1222aaaf;
+}
+.progamacao{
+    background-color: #140466a9;
+}
+.portugues{
+    background-color: #fae8d9;
+}
+.fisica{
+    background-color: #c22238d3;
+}
+.ingles{
+    background-color: #df1660c7;
+}
+.arte{
+    background-color: #84d6c4dc;
+}
+.devw{
+    background-color: #ccdfaac4;
+}
+.edfisica{
+    background-color: #ffc96cc9;
+}
+.introc{
+    background-color: #311d05c5;
+}
+.sem{
+    background-color: #06a01396;
+}
+.pi{
+    background-color: #a5f1ffcb;
+}
+.optativa{
+    background-color: #995279d5;
+}
