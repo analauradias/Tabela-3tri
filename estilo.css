@@ -4,8 +4,6 @@
 }
 
 body{
-    justify-content: center;
-    align-items: center;
     background-color: rgba(200, 135, 226, 0.781);
 }
 th, tr, td{
